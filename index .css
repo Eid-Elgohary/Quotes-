@@ -1,0 +1,26 @@
+div {
+   text-align: center;
+   margin-top: 50px;
+}
+
+h1 {
+   font-size: 80px;
+}
+
+button {
+   width: 250px;
+   height: 80px;
+   background-color: blue;
+   color: white;
+   border:none ;
+   border-radius: 6px;
+   font-size: 20px;
+}
+
+p {
+   font-size: 35px;
+}
+
+button:hover {
+   background-color: green;
+}
